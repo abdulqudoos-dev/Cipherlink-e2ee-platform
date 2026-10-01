@@ -1,5 +1,7 @@
 # Cipherlink - E2EE Messaging Platform
 
+> **Built by [Abdul Qudoos](https://www.abdul-qudoos.com)**, AI Automation & Forward Deployed Engineer · [More projects](https://www.abdul-qudoos.com/work)
+
 Secure End-to-End Encrypted Messaging & File-Sharing System
 
 ## Project Structure
@@ -126,4 +128,13 @@ npm run dev
 - Private keys are generated client-side and never sent to the server
 - Public keys are stored on the server for key exchange
 
+---
 
+## About the author
+
+I'm **Abdul Qudoos**, an AI automation and forward deployed engineer based in Islamabad, Pakistan. I build production AI agents, voice agents, workflow automation, and the full-stack products around them.
+
+- Portfolio: [abdul-qudoos.com](https://www.abdul-qudoos.com)
+- Case studies: [abdul-qudoos.com/work](https://www.abdul-qudoos.com/work)
+- LinkedIn: [Abdul Qudoos](https://www.linkedin.com/in/abdul-qudoos-9a4640324/)
+- Email: abdulqudoos7113@gmail.com
